@@ -3,14 +3,14 @@ import setuptools
 
 ########################################################################################################################
 
-plugin_identifier = "psucontrol"
+plugin_identifier = "Wificontrol"
 plugin_package = "octoprint_%s" % plugin_identifier
-plugin_name = "OctoPrint-PSUControl"
-plugin_version = "0.1.9"
-plugin_description = "Control ATX/AUX power supply."
-plugin_author = "Shawn Bruce"
-plugin_author_email = "kantlivelong@gmail.com"
-plugin_url = "https://github.com/kantlivelong/OctoPrint-PSUControl"
+plugin_name = "OctoWifi Changer"
+plugin_version = "0.1"
+plugin_description = "Change Wifi Settings"
+plugin_author = "Pok"
+plugin_author_email = "todo"
+plugin_url = "todo"
 plugin_license = "AGPLv3"
 plugin_additional_data = []
 
